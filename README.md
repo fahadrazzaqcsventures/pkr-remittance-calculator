@@ -149,9 +149,6 @@ This project is intended for educational purposes and currency conversion estima
 
 GitHub: [Your GitHub Profile](https://github.com/fahadrazzaqcsventures)
 
-## 📄 License
-
-This project is licensed under the MIT License.
 
 ---
 
