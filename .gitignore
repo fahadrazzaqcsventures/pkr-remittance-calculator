@@ -2,6 +2,5 @@
 __pycache__/
 .env
 *.py[cod]
-.pytest_cache/
 .coverage
 .DS_Store
